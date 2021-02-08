@@ -1,4 +1,7 @@
+  /* cursive, fantasy, monospace, sans-serif, serif */
+
 h1 {
+ 
   font-family: sans-serif;
 }
 
@@ -9,10 +12,14 @@ h3 {
 p {
   font-family: sans-serif;
 }
-  /* cursive, fantasy, monospace, sans-serif, serif /*
 
-/* Flexible images /*
+/* Flexible images */
 img {
   max-width: 100%;
   height: auto;
+}
+
+body {
+  background-color: #c2fceb;
+  margin: 0 auto;
 }
