@@ -1,12 +1,10 @@
   /* cursive, fantasy, monospace, sans-serif, serif */
 
 h1 {
-   text-align: center;
   font-family: sans-serif;
 }
 
 h3 {
-   text-align: center;
   font-family: sans-serif;
 }
 
@@ -21,6 +19,7 @@ img {
 }
 
 body {
+  text-align: center;
   background-color: #c2fceb;
-  margin: 10px;
+  margin: 8px ;
 }
