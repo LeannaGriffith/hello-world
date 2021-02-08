@@ -3,7 +3,8 @@ h1 {
 }
 
 h2 {
-  font-family: cursive, fantasy, monospace, sans-serif, serif;
+  */ cursive, fantasy, monospace, sans-serif, serif /*
+  font-family: fantasy;
 /* Flexible images /*
 
 img {
