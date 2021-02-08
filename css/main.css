@@ -2,11 +2,16 @@ h1 {
   font-family: sans-serif;
 }
 
-h2 {
-  */ cursive, fantasy, monospace, sans-serif, serif /*
-  font-family: fantasy;
-/* Flexible images /*
+h3 {
+  font-family: sans-serif;
+}
 
+p {
+  font-family: sans-serif;
+}
+  /* cursive, fantasy, monospace, sans-serif, serif /*
+
+/* Flexible images /*
 img {
   max-width: 100%;
   height: auto;
